@@ -1,0 +1,18 @@
+title: "Lasers Can Do Anything"
+author: Laser Master
+email: example@laserscandoanything.com
+description: "Fucking Anything"
+baseurl: ""
+url: "http://LasersCanDoAnything.com"
+permalink: /:title/
+twitter_username: pfxn
+github_username:  
+
+plugins:
+  - "jekyll-paginate"
+
+paginate: 10
+markdown: kramdown
+
+kramdown:
+  input: GFM
