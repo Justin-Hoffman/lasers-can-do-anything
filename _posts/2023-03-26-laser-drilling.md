@@ -16,5 +16,7 @@ This makes it an essential tool in industries that require precise, high-quality
 In addition to its versatility, laser drilling offers other advantages over traditional drilling methods, including faster processing times, higher accuracy, and the ability to create holes in materials that are difficult or impossible to drill using other methods. 
 As a result, laser drilling has become an essential tool in modern manufacturing, enabling the creation of everything from jet engine components to high-tech medical devices.
 
-The [video](https://www.youtube.com/watch?v=llvCHyb8p8g) demonstrates the impressive speed and precision of laser drilling, as the laser quickly and accurately creates holes in this metal. This laser is a pulsed high power laser that uses repeated pulses, hundreds per second, to vaporize and remove the metal. This process is used to make parts for many different fields ranging from kitchen supplies like filters and collanders to combustor cooling liners for jet engines. 
+<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/llvCHyb8p8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
+The video above demonstrates the impressive speed and precision of laser drilling, as the laser quickly and accurately creates holes in this metal. This laser is a pulsed high power laser that uses repeated pulses, hundreds per second, to vaporize and remove the metal. This process is used to make parts for many different fields ranging from kitchen supplies like filters and collanders to combustor cooling liners for jet engines. 
 
