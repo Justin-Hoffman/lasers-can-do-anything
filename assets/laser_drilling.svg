@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="450"
+   version="1.1"
+   id="svg5133"
+   sodipodi:docname="laser_drilling.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5135"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0732529"
+     inkscape:cx="519.44888"
+     inkscape:cy="258.09388"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5133" />
+  <defs
+     id="defs5105">
+    <pattern
+       id="hatch"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       viewBox="0 0 6 6">
+      <path
+         d="M-1,1 l2,-2 M0,6 l6,-6 M5,7 l1,-1"
+         stroke="#333"
+         stroke-width="1"
+         id="path5099" />
+    </pattern>
+    <filter
+       id="blur"
+       x="-0.078434207"
+       y="-0.28670428"
+       width="1.144755"
+       height="1.5517113">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="3.6846577"
+         id="feGaussianBlur5102" />
+    </filter>
+    <filter
+       id="blur-3"
+       x="-0.25224077"
+       y="-0.17777778"
+       width="1.4553665"
+       height="1.3555556">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="5"
+         id="feGaussianBlur5102-6" />
+    </filter>
+    <filter
+       id="blur-5"
+       x="-0.078434207"
+       y="-0.28670427"
+       width="1.144755"
+       height="1.5517112">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="3.6846577"
+         id="feGaussianBlur5102-3" />
+    </filter>
+  </defs>
+  <!-- Laser Source -->
+  <rect
+     x="116.23636"
+     y="154.75612"
+     width="195.81772"
+     height="106.01028"
+     fill="#ff0000"
+     id="rect5107"
+     style="stroke-width:1.44079" />
+  <text
+     x="128.52695"
+     y="215.81155"
+     fill="#ffffff"
+     font-family="Arial"
+     font-size="27.4145px"
+     id="text5109"
+     style="stroke-width:1.95818">Laser Source</text>
+  <!-- Laser Beam -->
+  <line
+     x1="322.75546"
+     y1="208.325"
+     x2="566.82239"
+     y2="208.325"
+     stroke="#ff0000"
+     stroke-width="8.39576"
+     stroke-dasharray="5, 5"
+     id="line5111" />
+  <polygon
+     points="590,190 590,210 600,200 "
+     fill="#ff0000"
+     id="polygon5113"
+     transform="matrix(1.9581771,0,0,1.9581771,-587.68274,-182.61461)" />
+  <!-- Target Material -->
+  <polygon
+     points="650,300 650,100 750,100 750,190 670,190 670,210 750,210 750,300 "
+     fill="url(#hatch)"
+     stroke="#333333"
+     stroke-width="1"
+     id="polygon5115"
+     transform="matrix(-1.9581771,0,0,1.9581771,2048.9502,-182.82586)" />
+  <text
+     x="587.16876"
+     y="438.2207"
+     fill="#ffffff"
+     font-family="Arial"
+     font-size="27.4145px"
+     id="text5117"
+     style="fill:#000000;fill-opacity:1;stroke-width:1.95818">Target Material</text>
+  <!-- Ablated Material -->
+  <!-- Arrowheads for Ablated Material -->
+  <!-- Labels for Ablated Material -->
+  <text
+     x="364.20782"
+     y="101.11088"
+     font-family="Arial"
+     font-size="27.4145px"
+     id="text5127"
+     style="stroke-width:1.95818">Ablated Material</text>
+  <text
+     x="364.48224"
+     y="334.78778"
+     font-family="Arial"
+     font-size="27.4145px"
+     id="text5129"
+     style="stroke-width:1.95818">Ablated Material</text>
+  <!-- Ablated Plasma (blurry and orange/red) -->
+  <path
+     d="m 254.23645,139.70188 c 9.91281,-13.57506 33.04111,-28.34586 47.90055,-33.57407 17.7873,-6.258355 78.77233,-3.74935 85.439,-3.74935"
+     fill="none"
+     stroke="#ff4500"
+     stroke-width="8"
+     filter="url(#blur)"
+     id="path5131"
+     sodipodi:nodetypes="csc"
+     style="stroke-width:4;stroke-dasharray:none;filter:url(#blur)"
+     transform="matrix(1.9581771,0,0,1.9581771,-26.752125,24.883151)" />
+  <path
+     d="m 353.7684,90.178848 c 9.91281,-13.57506 33.04111,-28.34586 47.90055,-33.57407 17.7873,-6.25836 78.77233,-3.74935 85.439,-3.74935"
+     fill="none"
+     stroke="#ff4500"
+     stroke-width="8"
+     filter="url(#blur)"
+     id="path5131-5"
+     sodipodi:nodetypes="csc"
+     style="stroke-width:4;stroke-dasharray:none;filter:url(#blur-5)"
+     transform="matrix(1.9581771,0,0,-1.9581771,-216.88124,298.27725)" />
+  <!-- Label for Ablated Plasma -->
+</svg>
